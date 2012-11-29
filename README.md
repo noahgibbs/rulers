@@ -2,12 +2,12 @@
 
 This is the Ruby on Rulers framework from the book "Rebuilding Rails"
 by Noah Gibbs.  You can find the canonical branch of this framework at
-http://github.com/noahgibbs/rulers.
+"http://github.com/noahgibbs/rulers".
 
 It is primarily for instruction, but it works just fine as a web
 framework if you want a simple one.
 
-There are tags for different chapter starter code.  Type "git tag -a"
+There are tags for different chapter starter code.  Type "git tag"
 for a list.
 
 ## Installation
